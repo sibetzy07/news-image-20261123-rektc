@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/sibetzy07/news-image-20261123-rektc/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/sibetzy07/news-image-20261123-rektc/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # The World in One Day — 23 November 2026
 
 A make.fun entry for the **news-image-20261123** bounty: *"Sum up 23
@@ -39,3 +43,5 @@ others, as reported on 23 November 2026).
 ## License
 
 MIT — see `LICENSE`.
+
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
